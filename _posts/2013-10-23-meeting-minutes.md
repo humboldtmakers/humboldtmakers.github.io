@@ -9,3 +9,6 @@ title: 10/23/2013 Meeting Minutes
 ### Meeting Structure
 * EL Wire project work session
 
+
+![10.23.2013 EL Wire Hoodie by Nick Appelmans](/images/10.23.2013.elwirehoodie.jpg)
+
