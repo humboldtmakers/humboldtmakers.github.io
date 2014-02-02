@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 12/18/2013
+title: 12/18/2013 Meeting Minutes
+
 ---
 
 ## {{ page.title }}
