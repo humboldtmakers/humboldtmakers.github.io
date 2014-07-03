@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Meeting 6/18/2014
+title: Meeting Minutes 6/18/2014
 ---
 
 ## {{ page.title }}

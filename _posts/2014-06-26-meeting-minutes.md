@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Meeting 6/26/2014
+title: Microcontroller Meeting Minutes 6/16/2014
 ---
 
 ## {{ page.title }}
