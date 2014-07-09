@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Meeting 7/16/2014
+title: Next Maker Meeting 7/16/2014
 ---
 
 ## {{ page.title }}
