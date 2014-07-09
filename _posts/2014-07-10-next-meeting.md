@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Microcontroller Meeting 7/16/2014
+title: Next Microcontroller Meeting 7/10/2014
 ---
 
 ## {{ page.title }}
